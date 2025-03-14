@@ -1,4 +1,4 @@
-AI Blogging Agent 🚀
+#AI Blogging Agent 🚀
 
 Welcome to AI Blogging Agent - a weekend project that turned into something kinda cool! This is a smart writing assistant that can generate entire blog posts based on a topic and any context files you provide.
 
