@@ -1,0 +1,14 @@
+huggingface_hub
+langgraph
+gradio
+PyPDF2
+requests
+numpy
+pillow
+markdown
+python-dotenv
+tqdm
+uvicorn
+fastapi
+aiohttp
+google-generativeai
