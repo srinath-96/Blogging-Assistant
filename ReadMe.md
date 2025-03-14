@@ -1,4 +1,4 @@
-#AI Blogging Agent 🚀
+## AI Blogging Agent 🚀
 
 Welcome to AI Blogging Agent - a weekend project that turned into something kinda cool! This is a smart writing assistant that can generate entire blog posts based on a topic and any context files you provide.
 
@@ -8,7 +8,15 @@ Staring at a blank screen, struggling to come up with blog content? Same here. S
 
 This agent doesn't just spit out generic text - it actually:
 
-✅ Creates a proper structured outline✅ Writes engaging introductions and conclusions✅ Generates detailed sections with headings✅ Analyzes PDFs and code files you upload✅ Provides content improvement recommendations
+✅ Creates a proper structured outline
+
+✅ Writes engaging introductions and conclusions
+
+✅ Generates detailed sections with headings
+
+✅ Analyzes PDFs and code files you upload
+
+✅ Provides content improvement recommendations
 
 💡 Why Use This?
 
@@ -49,6 +57,13 @@ Gemini API - For high-quality text generation
 Gradio - For an interactive user-friendly interface
 
 Everything is modular, so you can swap out components and experiment with different models or frontends.
+
+How it should Look !!
+
+<img width="1440" alt="Screenshot 2025-03-13 at 6 57 32 PM" src="https://github.com/user-attachments/assets/e3ef6c5b-36c4-43de-ad7a-82b9d489b882" />
+
+<img width="1440" alt="Screenshot 2025-03-13 at 6 57 54 PM" src="https://github.com/user-attachments/assets/4a3da19f-3122-4108-b7be-1a2938cfae54" />
+
 
 🚧 Limitations & Future Ideas
 
